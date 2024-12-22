@@ -4,3 +4,4 @@ Group 35:
 - Helena Duarte
 - Iris Moreira
 - Afonso Freire
+- Osmáiny Raimundo
