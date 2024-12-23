@@ -5,7 +5,8 @@ Group 35:
 - Iris Moreira
 - Afonso Freire
 - Osmáiny Raimundo
-Metadata
+
+# Metadata
 
 - *Accident Date* - Injury date of the claim. 
 - *Age at Injury* - Age of injured worker when the injury occurred.
